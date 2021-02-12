@@ -17,7 +17,6 @@
             color: rgb(255, 163, 253);
         }
         #octoWords{
-            
             font-family: helvetica, sans-serif;
             font-size: 57px;
         }
@@ -42,20 +41,33 @@
             margin-left: 230px;
             margin-top:7px;
             z-index: 2;
+            width: 28px;
+            height: 28px;
+            background-color: rgb(255,186,255);
+            border-radius: 200px;
+            position: absolute;
         }
         #tentacle1{
             margin-left: 319px;
             margin-top: 44px;
+            width: 28px;
+            height: 28px;
+            background-color: rgb(255,186,255);
+            border-radius: 200px;
+            position: absolute;
         }
         #tentacle2{
             margin-left: 313px;
             margin-top: 62px;
+            width: 28px;
+            height: 28px;
+            background-color: rgb(255,186,255);
+            border-radius: 200px;
+            position: absolute;
         }
         #tentacle3{
             margin-left:303px;
             margin-top:78px;
-        }
-        .tentacle{
             width: 28px;
             height: 28px;
             background-color: rgb(255,186,255);
@@ -65,6 +77,11 @@
         #tentacle4{
             margin-left: 288px;
             margin-top: 90px;
+            width: 28px;
+            height: 28px;
+            background-color: rgb(255,186,255);
+            border-radius: 200px;
+            position: absolute;
         }
         #ear1{
             width: 23px;
@@ -180,11 +197,11 @@
     <h1 id="heading"><span id="thing">Dumbledore the </span><span class="octo" id="octoWords">Dumbo Octopus</span></h1>
     <p id="ascii">:3</p>
     <div id="octopus">
-    <div class="tentacle"id="head"> </div>
-    <div class="tentacle"id="tentacle1"></div>
-    <div class="tentacle"id="tentacle2"></div>
-    <div class="tentacle"id="tentacle3"></div>
-    <div class="tentacle"id="tentacle4"></div>
+    <div id="head"></div>
+    <div id="tentacle1"></div>
+    <div id="tentacle2"></div>
+    <div id="tentacle3"></div>
+    <div id="tentacle4"></div>
     <div id="ear1"></div>
     <div id="ear2"></div>
     <div id="eye1"></div>
