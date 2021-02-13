@@ -4,195 +4,195 @@
         <title>Dumbledore the Dumbo Octopus!!! :D</title>
     </head>
     <body>
-    <style>
-        #heading{
-            text-align: center;
-            margin-right: 143px;
-            margin-left: 123px;
-            font-family: sans-serif;
-            z-index: 212;
-        }
-        .octo{
-            color: rgb(255, 163, 253);
-        }
-        #octoWords{
-            font-family: helvetica, sans-serif;
-            font-size: 57px;
-        }
-        #thing{
-            font-size: 34px;
-            width: 277px;
-        }
-        #ascii{
-            position: absolute;
-            margin-left: 171px;
-            margin-top: -63px;
-            color: rgb(255,163,253);
-            font-family: helvetica, sans-serif;
-            font-weight: 34px;
-        }
-        #head{
-            width: 357.142857143px;
-            height: 357.142857143px;
-            background-color: rgb(255, 212, 254);
-            border-radius: 165px;
-            position: absolute;
-            margin-left: 230px;
-            margin-top:7px;
-            z-index: 2;
-            width: 28px;
-            height: 28px;
-            background-color: rgb(255,186,255);
-            border-radius: 200px;
-            position: absolute;
-        }
-        #tentacle1{
-            margin-left: 319px;
-            margin-top: 44px;
-            width: 28px;
-            height: 28px;
-            background-color: rgb(255,186,255);
-            border-radius: 200px;
-            position: absolute;
-        }
-        #tentacle2{
-            margin-left: 313px;
-            margin-top: 62px;
-            width: 28px;
-            height: 28px;
-            background-color: rgb(255,186,255);
-            border-radius: 200px;
-            position: absolute;
-        }
-        #tentacle3{
-            margin-left:303px;
-            margin-top:78px;
-            width: 28px;
-            height: 28px;
-            background-color: rgb(255,186,255);
-            border-radius: 200px;
-            position: absolute;
-        }
-        #tentacle4{
-            margin-left: 288px;
-            margin-top: 90px;
-            width: 28px;
-            height: 28px;
-            background-color: rgb(255,186,255);
-            border-radius: 200px;
-            position: absolute;
-        }
-        #ear1{
-            width: 23px;
-            height: 23px;
-            margin-bottom: -5px;
-            z-index: 23;
-            margin-left: 257px;
-            background-color: rgb(255,212,254);
-            border-radius: 200px;
-        }
-        #ear2{
-            background-color: rgb(255,212,254);
-            position: absolute;
-            width: 23px;
-            height: 23px;
-            border-radius: 200px;
-            margin-top: 36px;
-            margin-left: 221px;
-        }
-        #text1{
-            position: relative;
-            margin-top: 108px;
-            font-size: 23px;
-            font-family: helvetica;
-            text-align: center;
-            background-color: rgb(255, 235, 255);
-            width: 221px;
-            margin-left: 150px;
-            border-radius: 22px;
-            padding: 15px;
-        }
-        #octopus{
-            margin-top: -25px;
-            margin-left: -15px;
-        }
-        #eye1{
-            width: 12px;
-            height: 12px;
-            position: absolute;
-            background-color: black;
-            border-radius: 100%;
-            z-index: 3;
-            margin-left: 301px;
-            margin-top: 18px;
-        }
-        #eye2{
-            width: 12px;
-            height: 12px;
-            position: absolute;
-            background-color: black;
-            border-radius: 100%;
-            z-index: 3;
-            margin-left: 276px;
-            margin-top: 60px;
-        }
-        #body{
-            width: 334px;
-            margin-left: 103px;
-            font-family: sans-serif;
-            border-style: solid;
-            border-radius: 4px;
-            padding: 15px;
-        }
-        #facts{
-            font-family: sans-serif;
-            font-size: 27px;
-            margin-left: 100px;
-        }
-        #facts2{
-            font-family: sans-serif;
-            font-size: 15px;
-            margin-left: 99px;
-            background-color: rgb(224, 224, 224);
-            border-radius: 3px;
-            padding: 2px;
-            width: 203px;
-        }
-        #facts3{
-            font-family: sans-serif;
-            font-size: 14px;
-            width:363px;
-            margin-left: 98px;
-            border-style: solid;
-            padding: 3px;
-            border-width: 0.1px;
-            border-radius: 2px;
-        }
-        #facts4{
-            background-color: rgb(250, 250, 250);
-            padding: 5px;
-            width: 275px;
-            margin-left: 95px;
-        }
-        #link{
-            text-decoration: none;
-            margin-left: 97px;
-            font-family: sans-serif;
-            font-size: 11px;
-        }
-        #footer{
-            margin-left: 95px;
-            font-family: sans-serif;
-            border-style: solid;
-            width: 244px;
-            border-width: 0.1px;
-            padding: 4px;
-            border-radius: 8px;
-        }
-        #red{
-            color: rgb(255,0,0);
-        }
-    </style>
+        <style>
+            #heading{
+                text-align: center;
+                margin-right: 143px;
+                margin-left: 223px;
+                font-family: sans-serif;
+                z-index: 212;
+            }
+            .octo{
+                color: rgb(255, 163, 253);
+            }
+            #octoWords{
+                font-family: helvetica, sans-serif;
+                font-size: 57px;
+            }
+            #thing{
+                font-size: 34px;
+                width: 277px;
+            }
+            #ascii{
+                position: absolute;
+                margin-left: 361px;
+                margin-top: -73px;
+                color: rgb(255,163,253);
+                font-family: helvetica, sans-serif;
+                font-weight: 34px;
+            }
+            #head{
+                width: 357.142857143px;
+                height: 357.142857143px;
+                background-color: rgb(255, 212, 254);
+                border-radius: 165px;
+                position: absolute;
+                margin-left: 230px;
+                margin-top:7px;
+                z-index: 2;
+                width: 28px;
+                height: 28px;
+                background-color: rgb(255,186,255);
+                border-radius: 200px;
+                position: absolute;
+            }
+            #tentacle1{
+                margin-left: 319px;
+                margin-top: 44px;
+                width: 28px;
+                height: 28px;
+                background-color: rgb(255,186,255);
+                border-radius: 200px;
+                position: absolute;
+            }
+            #tentacle2{
+                margin-left: 313px;
+                margin-top: 62px;
+                width: 28px;
+                height: 28px;
+                background-color: rgb(255,186,255);
+                border-radius: 200px;
+                position: absolute;
+            }
+            #tentacle3{
+                margin-left:303px;
+                margin-top:78px;
+                width: 28px;
+                height: 28px;
+                background-color: rgb(255,186,255);
+                border-radius: 200px;
+                position: absolute;
+            }
+            #tentacle4{
+                margin-left: 288px;
+                margin-top: 90px;
+                width: 28px;
+                height: 28px;
+                background-color: rgb(255,186,255);
+                border-radius: 200px;
+                position: absolute;
+            }
+            #ear1{
+                width: 23px;
+                height: 23px;
+                margin-bottom: -5px;
+                z-index: 23;
+                margin-left: 257px;
+                background-color: rgb(255,212,254);
+                border-radius: 200px;
+            }
+            #ear2{
+                background-color: rgb(255,212,254);
+                position: absolute;
+                width: 23px;
+                height: 23px;
+                border-radius: 200px;
+                margin-top: 36px;
+                margin-left: 221px;
+            }
+            #text1{
+                position: relative;
+                margin-top: 108px;
+                font-size: 23px;
+                font-family: helvetica;
+                text-align: center;
+                background-color: rgb(255, 235, 255);
+                width: 221px;
+                margin-left: 150px;
+                border-radius: 22px;
+                padding: 15px;
+            }
+            #octopus{
+                margin-top: -25px;
+                margin-left: -15px;
+            }
+            #eye1{
+                width: 12px;
+                height: 12px;
+                position: absolute;
+                background-color: black;
+                border-radius: 100%;
+                z-index: 3;
+                margin-left: 301px;
+                margin-top: 18px;
+            }
+            #eye2{
+                width: 12px;
+                height: 12px;
+                position: absolute;
+                background-color: black;
+                border-radius: 100%;
+                z-index: 3;
+                margin-left: 276px;
+                margin-top: 60px;
+            }
+            #body{
+                width: 334px;
+                margin-left: 103px;
+                font-family: sans-serif;
+                border-style: solid;
+                border-radius: 4px;
+                padding: 15px;
+            }
+            #facts{
+                font-family: sans-serif;
+                font-size: 27px;
+                margin-left: 100px;
+            }
+            #facts2{
+                font-family: sans-serif;
+                font-size: 15px;
+                margin-left: 99px;
+                background-color: rgb(224, 224, 224);
+                border-radius: 3px;
+                padding: 2px;
+                width: 203px;
+            }
+            #facts3{
+                font-family: sans-serif;
+                font-size: 14px;
+                width:363px;
+                margin-left: 98px;
+                border-style: solid;
+                padding: 3px;
+                border-width: 0.1px;
+                border-radius: 2px;
+            }
+            #facts4{
+                background-color: rgb(250, 250, 250);
+                padding: 5px;
+                width: 275px;
+                margin-left: 95px;
+            }
+            #link{
+                text-decoration: none;
+                margin-left: 97px;
+                font-family: sans-serif;
+                font-size: 11px;
+            }
+            #footer{
+                margin-left: 95px;
+                font-family: sans-serif;
+                border-style: solid;
+                width: 244px;
+                border-width: 0.1px;
+                padding: 4px;
+                border-radius: 8px;
+            }
+            #red{
+                color: rgb(255,0,0);
+            }
+        </style>
     <h1 id="heading"><span id="thing">Dumbledore the </span><span class="octo" id="octoWords">Dumbo Octopus</span></h1>
     <p id="ascii">:3</p>
     <div id="octopus">
