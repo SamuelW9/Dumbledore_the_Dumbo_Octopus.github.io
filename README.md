@@ -32,8 +32,8 @@
             font-weight: 34px;
         }
         #head{
-            width: 100px;
-            height: 100px;
+            width: 357.142857143px;
+            height: 357.142857143px;
             background-color: rgb(255, 212, 254);
             border-radius: 165px;
             position: absolute;
